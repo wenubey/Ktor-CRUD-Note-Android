@@ -34,7 +34,9 @@ This section provides a visual representation of the app's architecture, flow, a
 Screenshots of the app's main screens can give a quick overview of its user interface and features.
 
 <div style="display:flex">
-    <img src="https://github.com/wenubey/Ktor-CRUD-Note-Android/blob/readme-md/app/src/main/assets/screenshot-1.png" alt="not found" width="240" height="480">
+    <img src="https://github.com/wenubey/Ktor-CRUD-Note-Android/blob/main/app/src/main/assets/screenshot-1.png" alt="not found" width="240" height="480">
+    <img src="https://github.com/wenubey/Ktor-CRUD-Note-Android/blob/main/app/src/main/assets/screenshot-2.png" alt="not found" width="240" height="480">
+    <img src="https://github.com/wenubey/Ktor-CRUD-Note-Android/blob/main/app/src/main/assets/screenshot-3.png" alt="not found" width="240" height="480">
 </div>
 
 ### Flow Diagram
