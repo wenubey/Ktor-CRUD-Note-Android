@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Crud Note App View UI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="write_your_title">Write your title…</string>
+    <string name="write_your_description">Write your description…</string>
+    <string name="save_button_description">Save button description</string>
+    <string name="add_note_fab_cd">You can add note when you click button.</string>
+</resources>

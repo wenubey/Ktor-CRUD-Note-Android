@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CrudNoteAppViewUI" parent="Theme.Material3.DayNight.NoActionBar">
+
+    </style>
+
+    <style name="Theme.CrudNoteAppViewUI" parent="Base.Theme.CrudNoteAppViewUI" />
+</resources>
