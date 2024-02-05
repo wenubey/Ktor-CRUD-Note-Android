@@ -6,7 +6,7 @@ This Android app demonstrates a simple CRUD (Create, Read, Update, Delete) opera
 
 The backend for this project is handled by a separate Ktor server. You can find the source code and setup instructions for the backend part at the following GitHub repository:
 
-[CRUD Note App Backend Repository](https://github.com/wenubey/Ktor-CRUD-Server)
+[CRUD Note App Backend Repository](https://github.com/wenubey/Ktor-CRUD-Note-Server)
 
 Please ensure that the backend server is running before using the Android app to perform CRUD operations.
 
